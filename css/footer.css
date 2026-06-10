@@ -30,7 +30,7 @@
   color: #ffffff;
 }
 
-.footer-copy {
+.footer-copyright {
   color: #a3a3a3;
   font-size: 1.25rem;
   grid-column: 1 / -1; /* Faz o texto ocupar as duas colunas */

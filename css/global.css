@@ -28,7 +28,7 @@ img {
   line-height: 1;
   text-transform: uppercase;
   word-break: break-all; /* Permite que palavras longas quebrem para a próxima linha */
-  max-width: 5ch; /* Limita a largura do subtítulo para 40 caracteres */
+  max-width: 4ch; /* Limita a largura do subtítulo para 40 caracteres */
 }
 
 @media (max-width: 800px) {
